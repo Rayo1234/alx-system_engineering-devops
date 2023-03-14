@@ -1,0 +1,2 @@
+#!/bin/bash
+echo {a..z}{a..z} | head -14 tail -11 -l '\n'
